@@ -31,7 +31,7 @@ This project is a simple responsive News Website that fetches and displays news 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/news-website.git
+   git clone https://github.com/GeetanshAnand/News-Website.git
 
 2. Navigate to the project directory:
 
