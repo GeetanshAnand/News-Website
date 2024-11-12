@@ -54,3 +54,12 @@ To use the GNews API, you'll need to configure an API key:
 2. Replace the `API_KEY` value in `script.js` with your API key:
    ```javascript
    const API_KEY = "your-api-key";
+
+## Project Structure
+
+```plaintext
+├── index.html       # Main HTML file
+├── style.css        # CSS file for styling
+├── script.js        # JavaScript file for functionality
+├── NEWS (2).png     # Company logo image
+└── README.md        # Project documentation (this file)
