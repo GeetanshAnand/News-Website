@@ -40,46 +40,17 @@ cd news-website
 
 3. Open the index.html file in your web browser.
 
+## Usage
 
+- On loading the webpage, it displays news articles related to "India" by default.
+- Use the navigation bar to switch between categories like **Business**, **Politics**, **Sports**, and **Technology**.
+- Enter keywords in the search bar and press the **Search** button to fetch related news articles.
 
-Usage
+## API Key Configuration
 
-On loading the webpage, it displays news articles related to "India" by default.
+To use the GNews API, you'll need to configure an API key:
 
-Use the navigation bar to switch between categories like Business, Politics, Sports, and Technology.
-
-Enter keywords in the search bar and press the "Search" button to fetch related news articles.
-
-
-API Key Configuration
-
-The project uses the GNews API. To use it, you'll need to configure an API key:
-
-1. Sign up and get an API key from GNews API.
-
-
-2. Replace the API_KEY value in script.js with your API key:
-
-const API_KEY = "your-api-key";
-
-
-
-Project Structure
-
-├── index.html       # Main HTML file
-├── style.css        # CSS file for styling
-├── script.js        # JavaScript file for functionality
-├── NEWS (2).png     # Company logo image
-└── README.md        # Project documentation (this file)
-
-License
-
-This project is licensed under the MIT License.
-
-
----
-
-Feel free to contribute to this project by submitting issues or pull requests.
-
-
-
+1. Sign up and get an API key from [GNews API](https://gnews.io/).
+2. Replace the `API_KEY` value in `script.js` with your API key:
+   ```javascript
+   const API_KEY = "your-api-key";
