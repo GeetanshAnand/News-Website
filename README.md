@@ -64,6 +64,7 @@ To use the GNews API, you'll need to configure an API key:
 ├── NEWS (2).png     # Company logo image
 └── README.md        # Project documentation (this file)
 
+
 ## License
 
 This project is licensed under the MIT License. 
