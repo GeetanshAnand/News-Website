@@ -62,8 +62,8 @@ To use the GNews API, you'll need to configure an API key:
 ├── style.css        # CSS file for styling
 ├── script.js        # JavaScript file for functionality
 ├── NEWS (2).png     # Company logo image
-└── README.md        # Project documentation (this file).
-
+└── README.md        # Project documentation (this file)
+```
 
 ## License
 
