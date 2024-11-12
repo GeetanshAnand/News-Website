@@ -63,3 +63,9 @@ To use the GNews API, you'll need to configure an API key:
 ├── script.js        # JavaScript file for functionality
 ├── NEWS (2).png     # Company logo image
 └── README.md        # Project documentation (this file)
+
+## License
+
+This project is licensed under the MIT License. 
+
+You may use, modify, and distribute this project freely under the terms of the MIT License. See the [LICENSE](LICENSE) file for more details.
